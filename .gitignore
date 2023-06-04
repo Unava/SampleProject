@@ -1,0 +1,14 @@
+target/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+.mvn∂
+
+.docker/postgres/pgsqldata/*.*
+.docker/rabbitmq/*.*
+
+/.docker/rabbitmq/data/
+/.docker/rabbitmq/logs/
